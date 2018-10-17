@@ -12,4 +12,5 @@ Branch 2correction
 
 adding data to check Gitignor file
 
-adding data to check Gitignor file
+correcting data to check Gitignor file
+correcting data to check Gitignor file
