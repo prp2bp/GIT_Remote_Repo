@@ -2,4 +2,9 @@ hi
 
 modification
 
+<<<<<<< HEAD
 branch1 correction
+=======
+
+Branch 2correction
+>>>>>>> 2ca90885042a48a8ba6cf96d74845ea319dc6343
